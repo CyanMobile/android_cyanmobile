@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="korg"
+           fetch="git://android.git.kernel.org/"
+           review="review.source.android.com" />
+
+  <remote  name="github"
+           fetch="git://github.com/" />
+
+  <default revision="gingerbread"
+           remote="github" />
+
+  <project path="build" name="CyanMobile/android_build_cyanmobile">
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+  <project path="bionic" name="CyanMobile/android_bionic_cyanmobile" />
+  <project path="bootable/" name="CyanMobile/android_bootable_cyanmobile" />
+  <project path="ndk" name="CyanMobile/android_ndk_cyanmobile" />
+  <project path="packages/apps/AccountsAndSyncSettings" name="CyanMobile/android_packages_apps_AccountsAndSyncSettings_cyanmobile" />
+  <project path="packages/apps/ADWLauncher" name="CyanMobile/android_packages_apps_ADWLauncher_cyanmobile" />
+  <project path="packages/apps/AndroidTerm" name="CyanMobile/android_packages_apps_AndroidTerm_cyanmobile" />
+  <project path="packages/apps/Bluetooth" name="CyanMobile/android_packages_apps_Bluetooth_cyanmobile" />
+  <project path="packages/apps/Browser" name="CyanMobile/android_packages_apps_Browser_cyanmobile" />
+  <project path="packages/apps/BugReportSender" name="CyanMobile/android_packages_apps_BugReportSender_cyanmobile" />
+  <project path="packages/apps/Calculator" name="CyanMobile/android_packages_apps_Calculator_cyanmobile" />
+  <project path="packages/apps/Calendar" name="CyanMobile/android_packages_apps_Calendar_cyanmobile" />
+  <project path="packages/apps/Camera" name="CyanMobile/android_packages_apps_Camera_cyanmobile" />
+  <project path="packages/apps/CertInstaller" name="CyanMobile/android_packages_apps_CertInstaller_cyanmobile" />
+  <project path="packages/apps/CMAppBackgroundChooser" name="CyanMobile/android_packages_apps_CMAppBackgroundChooser_cyanmobile" />
+  <project path="packages/apps/CMAppsChanger" name="CyanMobile/android_packages_apps_CMAppsChanger_cyanmobile" />
+  <project path="packages/apps/CMBackgroundChooser" name="CyanMobile/android_packages_apps_CMBackgroundChooser_cyanmobile" />
+  <project path="packages/apps/CMBootanimation" name="CyanMobile/android_packages_apps_CMBootanimation_cyanmobile" />
+  <project path="packages/apps/CMBootsound" name="CyanMobile/android_packages_apps_CMBootsound_cyanmobile" />
+  <project path="packages/apps/CMCalibrator" name="CyanMobile/android_packages_apps_CMCalibrator_cyanmobile" />
+  <project path="packages/apps/CMCompass" name="CyanMobile/android_packages_apps_CMCompass_cyanmobile" />
+  <project path="packages/apps/CMCompassCalibrator" name="CyanMobile/android_packages_apps_CMCompassCalibrator_cyanmobile" />
+  <project path="packages/apps/CMContacts" name="CyanMobile/android_packages_apps_CMContacts_cyanmobile" />
+  <project path="packages/apps/CMFontsChanger" name="CyanMobile/android_packages_apps_CMFontsChanger_cyanmobile" />
+  <project path="packages/apps/CMFrameworksChanger" name="CyanMobile/android_packages_apps_CMFrameworksChanger_cyanmobile" />
+  <project path="packages/apps/CMParts" name="CyanMobile/android_packages_apps_CMParts_cyanmobile" />
+  <project path="packages/apps/CMPartsFinder" name="CyanMobile/android_packages_apps_CMPartsFinder_cyanmobile" />
+  <project path="packages/apps/CMScreenshot" name="CyanMobile/android_packages_apps_CMScreenshot_cyanmobile" />
+  <project path="packages/apps/CMShutdownanimation" name="CyanMobile/android_packages_apps_CMShutdownanimation_cyanmobile" />
+  <project path="packages/apps/CMTaskSwitcher" name="CyanMobile/android_packages_apps_CMTaskSwitcher_cyanmobile" />
+  <project path="packages/apps/CMTimers" name="CyanMobile/android_packages_apps_CMTimers_cyanmobile" />
+  <project path="packages/apps/CMTSCalibration" name="CyanMobile/android_packages_apps_CMTSCalibration_cyanmobile" />
+  <project path="packages/apps/Contacts" name="CyanMobile/android_packages_apps_Contacts_cyanmobile" />
+  <project path="packages/apps/DeskClock" name="CyanMobile/android_packages_apps_DeskClock_cyanmobile" />
+  <project path="packages/apps/FileManager" name="CyanMobile/android_packages_apps_FileManager_cyanmobile" />
+  <project path="packages/apps/FM" name="CyanMobile/android_packages_apps_FM_cyanmobile" />
+  <project path="packages/apps/Gallery3D" name="CyanMobile/android_packages_apps_Gallery3D_cyanmobile" />
+  <project path="packages/apps/GpsTracker" name="CyanMobile/android_packages_apps_GpsTracker_cyanmobile" />
+  <project path="packages/apps/Mms" name="CyanMobile/android_packages_apps_Mms_cyanmobile" />
+  <project path="packages/apps/Music" name="CyanMobile/android_packages_apps_Music_cyanmobile" />
+  <project path="packages/apps/Phone" name="CyanMobile/android_packages_apps_Phone_cyanmobile" />
+  <project path="packages/apps/Protips" name="CyanMobile/android_packages_apps_Protips_cyanmobile" />
+  <project path="packages/apps/Settings" name="CyanMobile/android_packages_apps_Settings_cyanmobile" />
+  <project path="packages/apps/SMSBarrage" name="CyanMobile/android_packages_apps_SMSBarrage_cyanmobile" />
+  <project path="packages/apps/SMSMorse" name="CyanMobile/android_packages_apps_SMSMorse_cyanmobile" />
+  <project path="packages/apps/Stk" name="CyanMobile/android_packages_apps_Stk_cyanmobile" />
+  <project path="packages/apps/TaskMan" name="CyanMobile/android_packages_apps_TaskMan_cyanmobile" />
+  <project path="packages/apps/VideoLiveWallpapers" name="CyanMobile/android_packages_apps_VideoLiveWallpapers_cyanmobile" />
+  <project path="packages/experimental" name="CyanMobile/android_packages_experimental_cyanmobile" />
+  <project path="packages/inputmethods/" name="CyanMobile/android_packages_inputmethods_cyanmobile" />
+  <project path="packages/providers/" name="CyanMobile/android_packages_providers_cyanmobile" />
+  <project path="sdk" name="CyanMobile/android_sdk_cyanmobile" />
+  <project path="system/" name="CyanMobile/android_system_cyanmobile" />
+
+  <project path="android" name="CyanMobile/android_cyanmobile" />
+
+</manifest>
