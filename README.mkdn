@@ -1,0 +1,37 @@
+CyanMobile
+===========
+
+Submitting Patches
+------------------
+Patches are always welcome!
+
+Getting Started
+---------------
+
+To get started with Android/CyanMobile, you'll need to get
+familiar with [Git and Repo](http://source.android.com/download/using-repo).
+
+To initialize your local repository using the CyanMobile trees, use a command like this:
+
+    repo init -u git://github.com/CyanMobile/android_cyanmobile.git -b gingerbread
+
+Then to sync up:
+
+    repo sync
+
+Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.com/) for building instructions.
+
+For more information on this Github Organization and how it is structured, 
+please [read the wiki article](http://wiki.cyanogenmod.com/index.php/Github_Organization)
+
+
+
+Build CyanMobile for your device
+--------------------------------
+
+see device/samsung/tass
+
+for prepare what needed to build full rom
+and write for your device....
+
+Nb: make sure your overlay is same with this device (see device/samsung/tass/overlay) but if you need other than that just add for your device and dont touch this default overlay
