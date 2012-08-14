@@ -1,0 +1,272 @@
+What is CyanMobile?
+
+CyanMobile is aftermarket ROM like CyanogenMod, MIUI, JoyOS, LewaOS and other that build from source..
+absolutely build from source with based from CyanogenMod 7 (Gingerbread v2.3.7) and Use Modification From AOSP and AOKP
+Thanks To CyanogenMod Team, AOKP Team, and AOSP Team for Their Work
+
+**********************************************************************************************************************
+** CyanMobile is Short of " *Cyan* (CyanogenMod) *Mob* (Mobiling) *I* (Improving) and *L* (Let's) *E* (Experiment)" **
+**********************************************************************************************************************
+
+All feature is based from What user do and What user need with a lots of improvement in here and there
+This ROM is optimization of gingerbread that not always get update, but Use update from Other Branch (ICS stuff, AOSP and AOKP) 
+with reverse engineering or backported skill
+It can be used without any need to have any Google application installed..
+
+Lets we talk, what is in CyanMobile
+
+====================================================================================================
+1. Statusbar :
+ * Date
+   - Show/Hide Date
+   - Date Colour
+ * Notications
+   - Ticker Color
+   - No Title Color
+   - Latest Title Color
+   - Ongoing Title Color
+   - Clear Label Button Color
+   - Title Color
+   - Item Color
+   - Time Color
+ * Icons
+   - Show/Hide Notification Icons
+   - Show/Hide Statusbar Icons
+   - Show/Hide Headset/Alarm/Bluetooth/Gps/Sync/Wifi/3G/4G Icon
+ * Clock
+   - 4 Clock styles (Right,Left,Center and Hide)
+   - Clock Color
+   - Clock Font Size
+ * Carrier label
+   - Show/Hide Carrier Label
+   - Bottom Carrier Label
+   - 3 Carrier Label On Statusbar Styles (Right,Left, and Center)
+   - Carrier Label Color
+   - 4 Carrier Logo Styles (Right,Left,Center and Custom Logo)
+ * Signal
+   - 5 Different Styles (Bars,Text,Text w/dBm,text w/Auto Color and Hide)
+   - Wifi Signal Text
+ * Battery
+   - 7 Different Styles (Icon,Percentage,Top Statusbar,Side Bar, Behind Statusbar, Navigation Bar and Hide)
+   - 3 Different Battery Percentage Format (Default,Percentage and Full Color)
+   - Statusbar Battery Color
+ * Power Widget
+   - 4 Different Layouts (Default,Bottom,Grid and Tab)
+   - Music Widget
+   - Grid Layout Customizing
+ * Misc
+   - Shortcut Button
+   - Show/Hide Statusbar
+   - Reverse Statusbar Icons And Layout
+   - Statusbar Brightness Control
+   - Statusbar Fonts Size
+   - Statusbar Icons Size
+   - Statusbar Height Size
+   - Statusbar Background
+   - Statusbar Background Color
+   - Notification Background
+   - Notification Background Color
+
+====================================================================================================
+2. Framework :
+ * Lockscreen
+   - 7 Different Lockscreen Styles (Sliding Tab,Rotary,Lense,Ring,Honeycomb (beta),Circular (alpha) and Sense (beta))
+   - Lockscreen Widget Color
+   - Sms/Call Notifications
+   - Fuzzy Clock
+   - Kanji Clock
+   - Custom Text Lockscreen
+   - Widget Layouts
+   - Pattern Styles
+ * Power Saver
+   - Screen Off Data Action
+   - Data Action Delay
+   - Sync Action
+   - Sync Time Interval
+   - Screen Off Wifi Action
+   - Sync Data Usage
+   - Mobile Data Preference
+ * Application
+   - Native A2SD Framework Core
+   - Installation Place
+ * Display
+   - Bravia Engine
+   - Rotation Animation
+   - Window Animations
+   - Transition Animations
+   - LCD Density
+ * Input
+   - Quick Key Behavior
+   - Enable/Disable Vibrate on Shutdown
+   - Explorer Key
+ * Power Menu
+   - Show/Hide Power menu/Silent/Airplane/Profile/Screenshot/Power saver/Hibernate/Suspend Toggles
+ * Fonts
+   - Change Fonts System
+   - Change Fonts Type
+ * OverScroll
+   - Effect
+   - Color
+   - Weight
+ * Core Replacer
+   - Change System Apk
+   - Change Framework Apk/Jar
+ * Boot/Shutdown animation and Sound
+   - Preview
+   - Change Bootanimation
+   - Change Shutdownanimation
+   - Change Bootsound
+   - Reset
+ * Misc
+   - Clear Market Data
+   - Global Text Color Change
+   - Global App Background Change
+   - Soft Button Statusbar
+   - Navigation Button Bar
+   - Choose Navi Button
+   - Navigation Button Bar Size
+   - Navigation Bar Background
+   - Extend Power Menu
+   - Remap Volume Keys
+   - Lock Volume Keys
+   - Volume Key Beeps
+   - Swap Volume Keys
+   - Task Switcher
+
+====================================================================================================
+3. Sound :
+ * Features
+   - Loop Ringtone
+   - Flip Down To Mute Ringer/Snooze Alarm
+   - Increasing Ringtone Volume
+   - Less Frequent Notification Sound
+   - Battery Full/Low Alert
+   - Charging Plug/Unplug Sound
+
+====================================================================================================
+4. Tethering :
+ * Features
+   - Bluetooth Tether
+   - Auto Usb Tether
+
+====================================================================================================
+5. Phone :
+ * Features
+   - Smart Phone Call
+   - Back Button To End Call
+   - Menu Button To Answer Call
+   - Reject Call with Message
+   - Allow Incall UI Touch
+   - Call Me Louder While Inside Bags
+   - Speed Dials
+   - Video As Ringtone
+   - Ring Delay
+   - Export/Import SIM Contacts
+
+====================================================================================================
+6. Messaging :
+ * Features
+   - Bubble/Black/Transparent Theme
+   - Smart Phone Call
+   - Hide Avatar
+   - Strip Unicode
+   - Emoji Support
+   - Convo List/Subject Font Size
+   - Sms Vibrate Morse
+   - Brutal Sender
+   - Sms PopUp
+
+====================================================================================================
+7. Music :
+ * Features
+   - Shake To Next/Prev/Play/Pause/Shuttle Track
+   - Favorite Folder
+   - Flip To Play/Pause
+   - Smooth Play Track
+
+====================================================================================================
+8. Locations :
+ * Features
+   - Enable/Disable Assisted GPS
+   - GPS Tracker Performance
+   - Security Device Finder
+
+====================================================================================================
+9. Performance :
+ * Features
+   - New Dithering Support
+   - Enable Bootsound
+   - Bootsound Volume
+   - Enable Shutdownanimation
+   - Gmaps Hack
+   - KSM Settings
+   - Battery Polling
+   - Low Mem Killer Option
+   - Scrolling Option
+   - IO Scheduler Option
+   - SD Read Ahead Size option
+   - Screen Off Max CPU Freq
+
+====================================================================================================
+10. Misc :
+ * Features
+   - ADWLauncher Improving
+   - Browser Improving
+   - Calculator Improving
+   - FM Radio Improving
+   - File Manager Update
+   - SIM ToolKit Improving
+   - Screenshots Improving
+   - Task Manager
+   - Voice Dialer Improving
+
+====================================================================================================
+11. All Binary and Library is up to Date
+
+====================================================================================================
+Thats it, Other Feature that not mentions here is came From CyanogenMod 7
+
+To Find OUT the feature, NEED PLAY MORE WITH ROM xD
+
+CyanMobile is trying to Improve all Hardware Function and also always adding new feature so it maybe have some bugs
+and need User FeedBack to Fixing the Bugs
+
+
+====================================================================================================
+
+Reporting Bugs
+
+====================================================================================================
+
+Before reporting a bug, please make sure you are running as stock as possible. This means no custom kernel, no custom framework modification, etc. If you are using any of the above modifications, please flash the rom again to get rid of the modifications before reporting.
+
+ - Grab a logcat right after the problem has occurred. (Please include at least a few pages of the log, not just the last few lines, unless you know what you're doing.)
+ - If it is a random reboot, grab /proc/last_kmsg. (Do not bother getting a logcat unless you can get it just before the reboot. A logcat after a reboot is useless)
+ - Remember to provide as much info as possible. The more info you provide, the more likely that the bug will be solved. The following is a useful format to follow.
+
+
+====================================================================================================
+
+Format Reporting Bugs
+
+====================================================================================================
+What is your--
+Phone model:
+Radio (baseband):
+CMX version:
+CMX Download url:
+Gapps version:
+
+Did you--
+wipe:
+ restore with titanium backup:
+reboot after having the issue:
+
+Are you using--
+a task killer:
+a non-stock kernel:
+CMSettings/Performance settings (other than stock):
+other modifications:
+
+Provide any additional information (observations/frequency) of problem/last version it worked
+====================================================================================================

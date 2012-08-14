@@ -19,19 +19,22 @@ Then to sync up:
 
     repo sync
 
-Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.com/) for building instructions.
-
-For more information on this Github Organization and how it is structured, 
-please [read the wiki article](http://wiki.cyanogenmod.com/index.php/Github_Organization)
+For more information on this Github Organization and what feature include in it, 
+please [read definitions](https://github.com/CyanMobile/android_cyanmobile/Definitions.txt)
 
 
 
-Build CyanMobile for your device
---------------------------------
+Build CyanMobile rom for your device
+------------------------------------
 
-see device/samsung/tass
+add "setprop ro.squadzone.build 1" (without quote) into init.rc or init*.rc of your device
+
+"make sure your device kernel support with ksm,cleancache,frontswap and 
+6 Ioscheduler (deadline,noop,sio,bfq,cfq, and vr) to make some options working"
+
+see device/samsung/tass and vendor/cyanogenmod/products
 
 for prepare what needed to build full rom
 and write for your device....
 
-Nb: make sure your overlay is same with this device (see device/samsung/tass/overlay) but if you need other than that just add for your device and dont touch this default overlay
+Nb: your overlay must same with this example device if your device is ldpi (see device/samsung/tass/overlay) but if your device is hdpi you must change layout for navigationbar so it will matches with your device screen resolution, and remember dont touch other if your device is exactly same with this example device.

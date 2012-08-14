@@ -27,6 +27,7 @@
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
   <project path="external/astl" name="CyanogenMod/android_external_astl" />
+  <project path="external/bash" name="CyanMobile/android_external_bash_cyanmobile" />
   <project path="external/bison" name="CyanogenMod/android_external_bison" />
   <project path="external/bluetooth" name="CyanMobile/android_external_bluetooth_cyanmobile" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
@@ -122,6 +123,7 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="frameworks/base" name="CyanMobile/android_frameworks_base_cyanmobile" />
+  <project path="frameworks/base/data" name="CyanMobile/android_frameworks_base_data_cyanmobile" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
@@ -215,7 +217,6 @@
   <project path="system" name="CyanMobile/android_system_cyanmobile" />
 
   <project path="vendor/cyanogen" name="CyanMobile/android_vendor_cyanogen_cyanmobile" />
-  <project path="vendor/samsung/tass" name="CyanMobile/android_propiertary_device_tass" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project path="vendor/tmobile" name="CyanMobile/android_vendor_tmobile_cyanmobile" />
 
