@@ -20,7 +20,7 @@ Then to sync up:
     repo sync
 
 For more information on this Github Organization and what feature include in it, 
-please [read definitions](https://github.com/CyanMobile/android_cyanmobile/Definitions.txt)
+please [read definitions](https://github.com/CyanMobile/android_cyanmobile/blob/gingerbread/Definitions.txt)
 
 
 
