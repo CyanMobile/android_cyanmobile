@@ -120,7 +120,6 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="frameworks/base" name="CyanMobile/android_frameworks_base_cyanmobile" />
-  <project path="frameworks/base/data" name="CyanMobile/android_frameworks_base_data_cyanmobile" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
