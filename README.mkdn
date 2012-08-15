@@ -37,4 +37,8 @@ see device/samsung/tass and vendor/cyanogenmod/products
 for prepare what needed to build full rom
 and write for your device....
 
-Nb: your overlay must same with this example device if your device is ldpi (see device/samsung/tass/overlay) but if your device is hdpi you must change layout for navigationbar so it will matches with your device screen resolution, and remember dont touch other if your device is exactly same with this example device.
+Nb: your overlay must same with this example device 
+if your device is ldpi (see device/samsung/tass/overlay)
+else if your device is mdpi (see device/samsung/gio/overlay)
+else if your device is hdpi (see device/zte/blade/overlay)
+and if you need to add another xml into overlay, make sure default overlay is untouched :)
