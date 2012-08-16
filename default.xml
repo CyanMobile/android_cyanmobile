@@ -16,6 +16,7 @@
   </project>
   <project path="bionic" name="CyanMobile/android_bionic_cyanmobile" />
   <project path="bootable/" name="CyanMobile/android_bootable_cyanmobile" />
+  <project path="dalvik" name="CyanMobile/android_dalvik_cyanmobile" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
@@ -211,6 +212,7 @@
   <project path="packages/inputmethods" name="CyanMobile/android_packages_inputmethods_cyanmobile" />
   <project path="packages/providers" name="CyanMobile/android_packages_providers_cyanmobile" />
   <project path="packages/wallpapers" name="CyanMobile/android_packages_wallpapers_cyanmobile" />
+  <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="sdk" name="CyanMobile/android_sdk_cyanmobile" />
   <project path="system" name="CyanMobile/android_system_cyanmobile" />
 
