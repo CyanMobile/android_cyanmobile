@@ -343,7 +343,7 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/themes/Androidian" name="CyanMobile/android_vendor_tmobile_themes_Androidian_cyanmobile" />
-  <project path="vendor/tmobile/themes/Cyanbread" name="CyanoMobile/android_vendor_tmobile_themes_Cyanbread_cyanmobile" />
+  <project path="vendor/tmobile/themes/Cyanbread" name="CyanMobile/android_vendor_tmobile_themes_Cyanbread_cyanmobile" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
   <project path="android" name="CyanMobile/android_cyanmobile" />
