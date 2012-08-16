@@ -49,7 +49,7 @@ persist.sys.themePackageName=com.uotkitchen.theme.icstransv3
 "make sure your device kernel support with ksm,cleancache,frontswap and 
 6 Ioscheduler (deadline,noop,sio,bfq,cfq, and vr) to make some options working"
 
-see device/samsung/tass and vendor/cyanogenmod/products
+see device/samsung/tass and vendor/cyanogen/products
 
 for prepare what needed to build full rom
 and write for your device....
