@@ -50,8 +50,8 @@
   <project path="device/htc/liberty" name="CyanogenMod/android_device_htc_liberty" />
   <project path="device/htc/mecha" name="CyanogenMod/android_device_htc_mecha" />
   <project path="device/htc/msm7x30-common" name="CyanogenMod/android_device_htc_msm7x30-common" />
-  <project path="device/htc/passion" name="CyanogenMod/android_device_htc_passion" />
-  <project path="device/htc/passion-common" name="CyanogenMod/android_device_htc_passion-common" />
+  <project path="device/htc/passion" name="CyanMobile/android_device_htc_passion_cyanmobile" />
+  <project path="device/htc/passion-common" name="CyanMobile/android_device_htc_passion-common_cyanmobile" />
   <project path="device/htc/saga" name="CyanogenMod/android_device_htc_saga" />
   <project path="device/htc/speedy" name="CyanogenMod/android_device_htc_speedy" />
   <project path="device/htc/supersonic" name="CyanogenMod/android_device_htc_supersonic" />
