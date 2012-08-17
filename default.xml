@@ -19,7 +19,7 @@
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="CyanMobile/android_bootable_recovery_cyanmobile" />
   <project path="dalvik" name="CyanMobile/android_dalvik_cyanmobile" />
-  <project path="development" name="CyanogenMod/android_development" />
+  <project path="development" name="CyanMobile/android_development_cyanmobile" />
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/bn/encore" name="CyanogenMod/android_device_bn_encore" />
@@ -130,7 +130,7 @@
   <project path="external/astl" name="CyanogenMod/android_external_astl" />
   <project path="external/bash" name="CyanMobile/android_external_bash_cyanmobile" />
   <project path="external/bison" name="CyanogenMod/android_external_bison" />
-  <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
+  <project path="external/busybox" name="CyanMobile/android_external_busybox_cyanmobile" />
   <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
   <project path="external/bluetooth/bluez" name="CyanMobile/android_external_bluetooth_bluez_cyanmobile" />
   <project path="external/bluetooth/glib" name="CyanogenMod/android_external_bluetooth_glib" />
@@ -165,8 +165,8 @@
   <project path="external/guava" name="CyanogenMod/android_external_guava" />
   <project path="external/hostapd" name="CyanogenMod/android_external_hostapd" />
   <project path="external/icu4c" name="CyanogenMod/android_external_icu4c" />
-  <project path="external/iproute2" name="CyanogenMod/android_external_iproute2" />
-  <project path="external/ipsec-tools" name="CyanogenMod/android_external_ipsec-tools" />
+  <project path="external/iproute2" name="CyanMobile/android_external_iproute2_cyanmobile" />
+  <project path="external/ipsec-tools" name="CyanMobile/android_external_ipsec-tools_cyanmobile" />
   <project path="external/iptables" name="CyanogenMod/android_external_iptables" />
   <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" />
   <project path="external/jhead" name="CyanogenMod/android_external_jhead" />
@@ -184,7 +184,7 @@
   <project path="external/libvpx" name="CyanogenMod/android_external_libvpx" />
   <project path="external/libxml2" name="CyanogenMod/android_external_libxml2" />
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
-  <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
+  <project path="external/lsof" name="CyanMobile/android_external_lsof_cyanmobile" />
   <project path="external/mtpd" name="CyanogenMod/android_external_mtpd" />
   <project path="external/nano" name="CyanogenMod/android_external_nano" />
   <project path="external/netcat" name="CyanogenMod/android_external_netcat" />
@@ -220,7 +220,7 @@
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" revision="master" />
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" />
-  <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" />
+  <project path="external/wpa_supplicant" name="CyanMobile/android_external_wpa_supplicant_cyanmobile" />
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
@@ -266,6 +266,7 @@
   <project path="packages/apps/CMCompass" name="CyanMobile/android_packages_apps_CMCompass_cyanmobile" />
   <project path="packages/apps/CMCompassCalibrator" name="CyanMobile/android_packages_apps_CMCompassCalibrator_cyanmobile" />
   <project path="packages/apps/CMContacts" name="CyanMobile/android_packages_apps_CMContacts_cyanmobile" />
+  <project path="packages/apps/CMDroidwall" name="CyanMobile/android_packages_apps_CMDroidwall_cyanmobile" />
   <project path="packages/apps/CMFontsChanger" name="CyanMobile/android_packages_apps_CMFontsChanger_cyanmobile" />
   <project path="packages/apps/CMFrameworksChanger" name="CyanMobile/android_packages_apps_CMFrameworksChanger_cyanmobile" />
   <project path="packages/apps/CMParts" name="CyanMobile/android_packages_apps_CMParts_cyanmobile" />
