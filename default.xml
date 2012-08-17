@@ -31,6 +31,7 @@
   <project path="device/huawei/ascend" name="CyanogenMod/android_device_huawei_ascend" />
   <project path="device/huawei/u8150" name="CyanogenMod/android_device_huawei_u8150" />
   <project path="device/huawei/u8220" name="CyanogenMod/android_device_huawei_u8220" />
+  <project path="device/huawei/u8510" name="CyanMobile/android_device_huawei_u8510_cyanmobile" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" />
   <project path="device/htc/7x30-recovery" name="CyanogenMod/android_device_htc_7x30-recovery" />
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" />
@@ -80,7 +81,9 @@
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" />
+  <project path="device/samsung/beni" name="CyanMobile/android_device_samsung_beni_cyanmobile" />
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" />
+  <project path="device/samsung/callisto" name="CyanMobile/android_device_samsung_callisto_cyanmobile" />
   <project path="device/samsung/captivatemtd" name="CyanogenMod/android_device_samsung_captivatemtd" />
   <project path="device/samsung/charge" name="CyanogenMod/android_device_samsung_charge" />
   <project path="device/samsung/cooper" name="CyanogenMod/android_device_samsung_cooper" />
@@ -96,6 +99,7 @@
   <project path="device/samsung/galaxysbmtd" name="CyanogenMod/android_device_samsung_galaxysbmtd" />
   <project path="device/samsung/galaxysmtd" name="CyanogenMod/android_device_samsung_galaxysmtd" />
   <project path="device/samsung/galaxys4g" name="CyanogenMod/android_device_samsung_galaxys4g" />
+  <project path="device/samsung/galaxy5" name="CyanMobile/android_device_samsung_galaxy5_cyanmobile" />
   <project path="device/samsung/gio" name="CyanMobile/android_device_samsung_gio_cyanmobile" />
   <project path="device/samsung/mesmerizemtd" name="CyanogenMod/android_device_samsung_mesmerizemtd" />
   <project path="device/samsung/p7100" name="CyanogenMod/android_device_samsung_p7100" />

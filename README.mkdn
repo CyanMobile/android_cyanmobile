@@ -59,3 +59,6 @@ if your device is ldpi (see device/samsung/tass/overlay)
 else if your device is mdpi (see device/samsung/gio/overlay)
 else if your device is hdpi (see device/zte/blade/overlay)
 and if you need to add another xml into overlay, make sure default overlay is untouched :)
+if still cant build, let me to help you, just pm my github account :D
+
+DO NOT USE recovery.img AFTER BUILD THIS ;)
