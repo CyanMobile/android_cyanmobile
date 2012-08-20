@@ -62,23 +62,3 @@ and if you need to add another xml into overlay, make sure default overlay is un
 if still cant build, let me to help you, just pm my github account :D
 
 DO NOT USE recovery.img AFTER BUILD THIS ;)
-
-
-
-
-**************************************************************************
-Kehidupan layaknya membuat GITHUB ACCOUNT
-DOSA seperti REPOSITORY yang berisi catatan penting
-KEKHILAFAN bagai COMMIT yang mengisi REPOSITORY
-Sengaja atau tidak sengaja maka COMMIT akan diPUSH ke REPOSITORY
-yang dimiliki GITHUB ACCOUNT
-Setelah sebulan penuh kita SYNC GITHUB ACCOUNT
-membersihkan dan REVIEW kembali REPOSITORY dan COMMIT
-kini sudah saatnya kita Meraihkan KEMENANGAN bagai FETCH yang telah dinanti
-
-Kami Segenap Team CyanMobile Mengucapkan
-
-SELAMAT HARI RAYA IDUL FITRI 1433H
-MINAL AIDIN WAL FAIDZIN
-MOHON MAAF LAHIR DAN BATIN
-***************************************************************************
