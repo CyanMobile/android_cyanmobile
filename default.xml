@@ -320,7 +320,7 @@
   <project path="packages/experimental" name="CyanMobile/android_packages_experimental_cyanmobile" />
   <project path="packages/inputmethods/LatinIME" name="CyanMobile/android_packages_inputmethods_LatinIME_cyanmobile" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
-  <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
+  <project path="packages/providers/CalendarProvider" name="CyanMobile/android_packages_providers_CalendarProvider_cyanmobile" />
   <project path="packages/providers/ContactsProvider" name="CyanMobile/android_packages_providers_ContactsProvider_cyanmobile" />
   <project path="packages/providers/DownloadProvider" name="CyanMobile/android_packages_providers_DownloadProvider_cyanmobile" />
   <project path="packages/providers/DrmProvider" name="CyanogenMod/android_packages_providers_DrmProvider" />
