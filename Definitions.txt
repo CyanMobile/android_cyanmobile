@@ -55,6 +55,10 @@ Lets we talk, what is in CyanMobile
    - Music Widget
    - Grid Layout Customizing
  * Misc
+   - Refactor New Statusbar Layout
+   - Power Clock
+   - Power Date
+   - Weather PopUp
    - Shortcut Button
    - Show/Hide Statusbar
    - Reverse Statusbar Icons And Layout
@@ -118,6 +122,9 @@ Lets we talk, what is in CyanMobile
    - Change Bootsound
    - Reset
  * Misc
+   - New Notifications Design
+   - Intruder Alert is Life
+   - New Dialog Design
    - Clear Market Data
    - Global Text Color Change
    - Global App Background Change
@@ -194,6 +201,7 @@ Lets we talk, what is in CyanMobile
 ====================================================================================================
 9. Performance :
  * Features
+   - New I/O Scheduler Option
    - New Dithering Support
    - Enable Bootsound
    - Bootsound Volume
@@ -203,7 +211,6 @@ Lets we talk, what is in CyanMobile
    - Battery Polling
    - Low Mem Killer Option
    - Scrolling Option
-   - IO Scheduler Option
    - SD Read Ahead Size option
    - Screen Off Max CPU Freq
 
