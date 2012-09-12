@@ -125,6 +125,7 @@ Lets we talk, what is in CyanMobile
    - New Notifications Design
    - Intruder Alert is Life
    - New Dialog Design
+   - Backported Some Apis From Jellybean
    - Clear Market Data
    - Global Text Color Change
    - Global App Background Change
