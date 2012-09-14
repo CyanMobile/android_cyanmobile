@@ -32,18 +32,26 @@ add "setprop ro.squadzone.build 1" (without quote) into init.rc or init*.rc of y
 then must add below into your build.prop
 *******************************************
 debug.composition.type=gpu
+
 persist.sys.composition.type=gpu
+
 persist.sys.ui.hw=true
+
 dalvik.vm.lockprof.threshold=500
+
 dalvik.vm.dexopt-flags=m=y
+
 dalvik.vm.heapsize=32m
+
 dalvik.vm.execution-mode=int:jit
+
 dalvik.vm.dexopt-data-only=1
+
 ro.config.hw_menu_unlockscreen=false
+
 ro.service.swiqi.supported=true
+
 debug.sf.hw=1
-persist.sys.themeId=ICStransV3 UOT
-persist.sys.themePackageName=com.uotkitchen.theme.icstransv3
 ************************************************************
 
 "make sure your device kernel support with ksm,cleancache,frontswap and 
