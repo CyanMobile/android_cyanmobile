@@ -11,7 +11,7 @@ Getting Started
 To get started with Android/CyanMobile, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
-To initialize your local repository using the CyanMobile trees, use a command like this:
+To initialize your local repository using the CyanMobile tree, use a command like this:
 
     repo init -u git://github.com/CyanMobile/android_cyanmobile.git -b gingerbread
 
@@ -19,17 +19,17 @@ Then to sync up:
 
     repo sync
 
-For more information on this Github Organization and what feature include in it, 
-please [read definitions](https://github.com/CyanMobile/android_cyanmobile/blob/gingerbread/Definitions.txt)
+For more information on this Github Organization and what features are included in it, 
+please [read the definitions](https://github.com/CyanMobile/android_cyanmobile/blob/gingerbread/Definitions.txt)
 
 
 
-Build CyanMobile rom for your device
-------------------------------------
+Building CyanMobile rom for your device
+---------------------------------------
 
-add "setprop ro.squadzone.build 1" (without quote) into init.rc or init*.rc of your device
+Add "setprop ro.squadzone.build 1" (without quotes) into the init.rc or init*.rc of your device
 
-then must add below into your build.prop
+then must add these into your build.prop
 *******************************************
 debug.composition.type=gpu
 
@@ -54,19 +54,16 @@ ro.service.swiqi.supported=true
 debug.sf.hw=1
 ************************************************************
 
-"make sure your device kernel support with ksm,cleancache,frontswap and 
-6 Ioscheduler (deadline,noop,sio,bfq,cfq, and vr) to make some options working"
+"Make sure your device's kernel supports KSM, cleancache, frontswap and 
+6 I/O schedulers (deadline, noop, sio, bfq, cfq and vr) to make some of the options working"
 
-see device/samsung/tass and vendor/cyanogen/products
+See device/samsung/tass and vendor/cyanogen/products for preparation of what's needed to build a full ROM and make it for your device....
 
-for prepare what needed to build full rom
-and write for your device....
+Nb: Your overlay must be the same with this example device 
+if your device is [ldpi], see device/samsung/tass/overlay
+else if your device is [mdpi], see device/samsung/gio/overlay
+else if your device is [hdpi], see device/zte/blade/overlay
+and if you need to add another xml into overlay, make sure the default overlay is untouched :)
+if you still can't manage to build, let me help you, just pm my github account :D
 
-Nb: your overlay must same with this example device 
-if your device is ldpi (see device/samsung/tass/overlay)
-else if your device is mdpi (see device/samsung/gio/overlay)
-else if your device is hdpi (see device/zte/blade/overlay)
-and if you need to add another xml into overlay, make sure default overlay is untouched :)
-if still cant build, let me to help you, just pm my github account :D
-
-DO NOT USE recovery.img AFTER BUILD THIS ;)
+DO NOT USE recovery.img AFTER BUILDING THIS ;)
