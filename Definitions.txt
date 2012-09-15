@@ -237,7 +237,7 @@ That's it, other features that not mentioned here came from CyanogenMod 7
 To Find OUT all of the features, YOU NEED TO PLAY MORE WITH THE ROM xD
 
 CyanMobile is trying to improve all hardware functions and is always adding new features so it may have some bugs
-and require user feedBack to fix the bugs
+and require user feedback to fix the bugs
 
 
 ====================================================================================================
