@@ -1,19 +1,19 @@
 What is CyanMobile?
 
-CyanMobile is aftermarket ROM like CyanogenMod, MIUI, JoyOS, LewaOS and other that build from source..
-absolutely build from source with based from CyanogenMod 7 (Gingerbread v2.3.7) and Use Modification From AOSP and AOKP
+CyanMobile is an aftermarket ROM like CyanogenMod, MIUI, JoyOS, LewaOS and others that are built from source...
+Absolutely built from source based on CyanogenMod 7 (Gingerbread v2.3.7) and modifications from AOSP and AOKP
 Thanks To CyanogenMod Team, AOKP Team, and AOSP Team for Their Work
 
 **********************************************************************************************************************
 ** CyanMobile is Short of " *Cyan* (CyanogenMod) *Mob* (Mobiling) *I* (Improving) and *L* (Let's) *E* (Experiment)" **
 **********************************************************************************************************************
 
-All feature is based from What user do and What user need with a lots of improvement in here and there
-This ROM is optimization of gingerbread that not always get update, but Use update from Other Branch (ICS stuff, AOSP and AOKP) 
-with reverse engineering or backported skill
-It can be used without any need to have any Google application installed..
+All features are based on what users do and what users need with lots of improvements here and there
+This ROM (optimized by Gingerbread) uses updates from other branches (like ICS stuff, AOSP and AOKP) with reverse 
+engineering or backporting skills
+It can be used without any need to have any Google application (Gapps) installed..
 
-Lets we talk, what is in CyanMobile
+Let us talk about what is in CyanMobile:
 
 ====================================================================================================
 1. Statusbar :
@@ -34,24 +34,24 @@ Lets we talk, what is in CyanMobile
    - Show/Hide Statusbar Icons
    - Show/Hide Headset/Alarm/Bluetooth/Gps/Sync/Wifi/3G/4G Icon
  * Clock
-   - 4 Clock styles (Right,Left,Center and Hide)
+   - 4 Clock styles (Right, Left, Center and Hide)
    - Clock Color
    - Clock Font Size
  * Carrier label
    - Show/Hide Carrier Label
    - Bottom Carrier Label
-   - 3 Carrier Label On Statusbar Styles (Right,Left, and Center)
+   - 3 Carrier Label On Statusbar Styles (Right, Left and Center)
    - Carrier Label Color
-   - 4 Carrier Logo Styles (Right,Left,Center and Custom Logo)
+   - 4 Carrier Logo Styles (Right, Left, Center and Custom Logo)
  * Signal
-   - 5 Different Styles (Bars,Text,Text w/dBm,text w/Auto Color and Hide)
+   - 5 Different Styles (Bars, Text, Text w/dBm, text w/Auto Color and Hide)
    - Wifi Signal Text
  * Battery
-   - 7 Different Styles (Icon,Percentage,Top Statusbar,Side Bar, Behind Statusbar, Navigation Bar and Hide)
-   - 3 Different Battery Percentage Format (Default,Percentage and Full Color)
+   - 7 Different Styles (Icon, Percentage, Top Statusbar, Side Bar, Behind Statusbar, Navigation Bar and Hide)
+   - 3 Different Battery Percentage Format (Default, Percentage and Full Color)
    - Statusbar Battery Color
  * Power Widget
-   - 4 Different Layouts (Default,Bottom,Grid and Tab)
+   - 4 Different Layouts (Default, Bottom, Grid and Tab)
    - Music Widget
    - Grid Layout Customizing
  * Misc
@@ -74,7 +74,7 @@ Lets we talk, what is in CyanMobile
 ====================================================================================================
 2. Framework :
  * Lockscreen
-   - 7 Different Lockscreen Styles (Sliding Tab,Rotary,Lense,Ring,Honeycomb (beta),Circular (alpha) and Sense (beta))
+   - 7 Different Lockscreen Styles (Sliding Tab, Rotary, Lense, Ring, Honeycomb (beta), Circular (alpha) and Sense (beta))
    - Lockscreen Widget Color
    - Sms/Call Notifications
    - Fuzzy Clock
@@ -218,26 +218,26 @@ Lets we talk, what is in CyanMobile
 ====================================================================================================
 10. Misc :
  * Features
-   - ADWLauncher Improving
-   - Browser Improving
-   - Calculator Improving
-   - FM Radio Improving
-   - File Manager Update
-   - SIM ToolKit Improving
-   - Screenshots Improving
+   - ADWLauncher Improved
+   - Browser Improved
+   - Calculator Improved
+   - FM Radio Improved
+   - File Manager Updated
+   - SIM ToolKit Improved
+   - Screenshots Improved
    - Task Manager
-   - Voice Dialer Improving
+   - Voice Dialer Improved
 
 ====================================================================================================
-11. All Binary and Library is up to Date
+11. All binaries and libraries are up to Date
 
 ====================================================================================================
-Thats it, Other Feature that not mentions here is came From CyanogenMod 7
+That's it, other features that not mentioned here came from CyanogenMod 7
 
-To Find OUT the feature, NEED PLAY MORE WITH ROM xD
+To Find OUT all of the features, YOU NEED TO PLAY MORE WITH THE ROM xD
 
-CyanMobile is trying to Improve all Hardware Function and also always adding new feature so it maybe have some bugs
-and need User FeedBack to Fixing the Bugs
+CyanMobile is trying to improve all hardware functions and is always adding new features so it may have some bugs
+and require user feedBack to fix the bugs
 
 
 ====================================================================================================
