@@ -289,6 +289,7 @@
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/FileManager" name="CyanMobile/android_packages_apps_FileManager_cyanmobile" />
   <project path="packages/apps/FM" name="CyanMobile/android_packages_apps_FM_cyanmobile" />
+  <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
   <project path="packages/apps/Gallery3D" name="CyanMobile/android_packages_apps_Gallery3D_cyanmobile" />
   <project path="packages/apps/GanOptimizer" name="CyanogenMod/android_packages_apps_GanOptimizer" />
