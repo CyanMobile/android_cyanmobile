@@ -31,7 +31,7 @@ Add "setprop ro.squadzone.build 1" (without quotes) into the init.rc or init*.rc
 
 then must add these into your build.prop
 *******************************************
-<code>debug.composition.type=gpu</code>
+<li>debug.composition.type=gpu</li>
 
 persist.sys.composition.type=gpu
 
