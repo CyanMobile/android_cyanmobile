@@ -13,11 +13,11 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the CyanMobile tree, use a command like this:
 
-    <code>repo init -u git://github.com/CyanMobile/android_cyanmobile.git -b gingerbread</code>
+    repo init -u git://github.com/CyanMobile/android_cyanmobile.git -b gingerbread
 
 Then to sync up:
 
-    <code>repo sync</code>
+    repo sync
 
 For more information on this Github Organization and what features are included in it, 
 please [Read the Definitions](https://github.com/CyanMobile/android_cyanmobile/blob/gingerbread/Definitions.txt)
@@ -33,7 +33,7 @@ Add the Following two lines into the init.rc or init.{DEVICE}.rc of your Device 
 <li>setprop ro.squadzone.build 1</li>
 <li>setprop persist.sys.gmaps_hack 1</li>
 
-then must add these into your build.prop
+Now Add These Lines to your System.prop { Build.prop }
 *******************************************
 <ul>
 <li>debug.composition.type=gpu</li>
@@ -86,9 +86,11 @@ Extra Notes : Your overlay must be the same with this Example Device
 <li>Else if your device is [hdpi], see device/zte/blade/overlay</li>
 </ul>
 And if you need to add another xml into overlay,Make sure the default overlay is untouched :)
-If you still can't manage to build, let me help you, Just Make Issue and Tag us ! Or Hang With us on Our Official Freenode Channel on #CyanMobileX 
+If you still can't manage to build, let me help you, Just Make Issue and Tag us ! Or Hang With us on Our Official Freenode Channel on <a href="http://webchat.freenode.net/?channels=CyanMobileX">#CyanMobileX</a>
+
+ 
 
 DO NOT USE recovery.img AFTER BUILDING THIS ;)
 <ul>
-<li>Hang with us on Our Official IRC Channel on Freenode on #CyanMobileX</li>
+<li>Hang with us on Our Official IRC Channel on Freenode on <a href="http://webchat.freenode.net/?channels=CyanMobileX">#CyanMobileX</a></li>
 </ul>
