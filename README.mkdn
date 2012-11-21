@@ -31,27 +31,29 @@ Add "setprop ro.squadzone.build 1" (without quotes) into the init.rc or init*.rc
 
 then must add these into your build.prop
 *******************************************
+<ul>
 <li>debug.composition.type=gpu</li>
 
-persist.sys.composition.type=gpu
+<li>persist.sys.composition.type=gpu</li>
 
-persist.sys.ui.hw=true
+<li>persist.sys.ui.hw=true</li>
 
-dalvik.vm.lockprof.threshold=500
+<li>dalvik.vm.lockprof.threshold=500</li>
 
-dalvik.vm.dexopt-flags=m=y
+<li>dalvik.vm.dexopt-flags=m=y</li>
 
-dalvik.vm.heapsize=32m
+<li>dalvik.vm.heapsize=32m</li>
 
-dalvik.vm.execution-mode=int:jit
+<li>dalvik.vm.execution-mode=int:jit</li>
 
-dalvik.vm.dexopt-data-only=1
+<li>dalvik.vm.dexopt-data-only=1</li>
 
-ro.config.hw_menu_unlockscreen=false
+<li>ro.config.hw_menu_unlockscreen=false</li>
 
-ro.service.swiqi.supported=true
+<li>ro.service.swiqi.supported=true</li>
 
-debug.sf.hw=1
+<li>debug.sf.hw=1</li>
+</ul>
 ************************************************************
 
 "Make sure your device's kernel supports KSM, cleancache, frontswap and 
