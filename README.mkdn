@@ -56,18 +56,35 @@ then must add these into your build.prop
 </ul>
 ************************************************************
 
-"Make sure your device's kernel supports KSM, cleancache, frontswap and 
-6 I/O schedulers (deadline, noop, sio, bfq, cfq and vr) to make some of the options working"
+"Make sure your device's kernel supports :
+<ul>
+<li>KSM</li>
+<li>cleancache</li>
+<li>frontswap</li>
+</ul>
+
+And Your Kernel Should Also Support all Six I/O Schedulers For Get All Functions Working Fine i.e :
+<ul>
+<li>deadline</li>
+<li>noop</li>
+<li>sio</li>
+<li>bfq</li>
+<li>cfq</li>
+<li>vr</li> 
+</ul>
 
 See device/samsung/tass and vendor/cyanogen/products for preparation of what's needed to build a full ROM and make it for your device....
 
 Extra Notes : Your overlay must be the same with this Example Device 
-If your device is [ldpi], see device/samsung/tass/overlay
-Else if your device is [mdpi], see device/samsung/gio/overlay
-Else if your device is [hdpi], see device/zte/blade/overlay
+<ul>
+<li>If your device is [ldpi], see device/samsung/tass/overlay</li>
+<li>Else if your device is [mdpi], see device/samsung/gio/overlay</li>
+<li>Else if your device is [hdpi], see device/zte/blade/overlay</li>
+</ul>
 And if you need to add another xml into overlay,Make sure the default overlay is untouched :)
 If you still can't manage to build, let me help you, Just Make Issue and Tag us ! Or Hang With us on Our Official Freenode Channel on #CyanMobileX 
 
 DO NOT USE recovery.img AFTER BUILDING THIS ;)
-
-I
+<ul>
+<li>Hang with us on Our Official IRC Channel on Freenode on #CyanMobileX</li>
+</ul>
