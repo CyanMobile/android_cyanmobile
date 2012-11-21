@@ -13,21 +13,25 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the CyanMobile tree, use a command like this:
 
-    repo init -u git://github.com/CyanMobile/android_cyanmobile.git -b gingerbread
+    <code>repo init -u git://github.com/CyanMobile/android_cyanmobile.git -b gingerbread</code>
 
 Then to sync up:
 
-    repo sync
+    <code>repo sync</code>
 
 For more information on this Github Organization and what features are included in it, 
-please [read the definitions](https://github.com/CyanMobile/android_cyanmobile/blob/gingerbread/Definitions.txt)
+please [Read the Definitions](https://github.com/CyanMobile/android_cyanmobile/blob/gingerbread/Definitions.txt)
 
 
 
 Building CyanMobile rom for your device
 ---------------------------------------
 
-Add "setprop ro.squadzone.build 1" (without quotes) into the init.rc or init*.rc of your device
+Add the Following two lines into the init.rc or init.{DEVICE}.rc of your Device Config
+
+<ol>
+<li>setprop ro.squadzone.build 1</li>
+<li>setprop persist.sys.gmaps_hack 1</li>
 
 then must add these into your build.prop
 *******************************************
