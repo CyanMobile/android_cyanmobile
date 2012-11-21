@@ -59,11 +59,13 @@ debug.sf.hw=1
 
 See device/samsung/tass and vendor/cyanogen/products for preparation of what's needed to build a full ROM and make it for your device....
 
-Nb: Your overlay must be the same with this example device 
-if your device is [ldpi], see device/samsung/tass/overlay
-else if your device is [mdpi], see device/samsung/gio/overlay
-else if your device is [hdpi], see device/zte/blade/overlay
-and if you need to add another xml into overlay, make sure the default overlay is untouched :)
-if you still can't manage to build, let me help you, just pm my github account :D
+Extra Notes : Your overlay must be the same with this Example Device 
+If your device is [ldpi], see device/samsung/tass/overlay
+Else if your device is [mdpi], see device/samsung/gio/overlay
+Else if your device is [hdpi], see device/zte/blade/overlay
+And if you need to add another xml into overlay,Make sure the default overlay is untouched :)
+If you still can't manage to build, let me help you, Just Make Issue and Tag us ! Or Hang With us on Our Official Freenode Channel on #CyanMobileX 
 
 DO NOT USE recovery.img AFTER BUILDING THIS ;)
+
+I
