@@ -63,18 +63,18 @@ Now Add These Lines to your System.prop { Build.prop }
 "Make sure your device's kernel supports :
 <ul>
 <li>KSM</li>
-<li>cleancache</li>
-<li>frontswap</li>
+<li>Cleancache</li>
+<li>Frontswap</li>
 </ul>
 
 And Your Kernel Should Also Support all Six I/O Schedulers For Get All Functions Working Fine i.e :
 <ul>
-<li>deadline</li>
-<li>noop</li>
-<li>sio</li>
-<li>bfq</li>
-<li>cfq</li>
-<li>vr</li> 
+<li>Deadline</li>
+<li>NOOP</li>
+<li>SIO</li>
+<li>BFQ</li>
+<li>CFQ</li>
+<li>VR</li> 
 </ul>
 
 See device/samsung/tass and vendor/cyanogen/products for preparation of what's needed to build a full ROM and make it for your device....
@@ -89,8 +89,8 @@ And if you need to add another xml into overlay,Make sure the default overlay is
 If you still can't manage to build, let me help you, Just Make Issue and Tag us ! Or Hang With us on Our Official Freenode Channel on <a href="http://webchat.freenode.net/?channels=CyanMobileX">#CyanMobileX</a>
 
  
+<h1>DO NOT USE recovery.img AFTER BUILDING THIS ;)</h1>
 
-DO NOT USE recovery.img AFTER BUILDING THIS ;)
 <ul>
 <li>Hang with us on Our Official IRC Channel on Freenode on <a href="http://webchat.freenode.net/?channels=CyanMobileX">#CyanMobileX</a></li>
 </ul>
