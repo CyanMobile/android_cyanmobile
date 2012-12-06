@@ -74,7 +74,7 @@ Let us talk about what is in CyanMobile:
 ====================================================================================================
 2. Framework :
  * Lockscreen
-   - 7 Different Lockscreen Styles (Sliding Tab, Rotary, Lense, Ring, Honeycomb (beta), Circular (alpha) and Sense (beta))
+   - 11 Different Lockscreen Styles (Sliding Tab, Rotary, Lense, Ring, Honeycomb (beta), Circular (alpha), Sense (beta), ICS Ring (alpha), Jb Ring (alpha, Jb GlowPad (Alpha) and Bebek Ring (alpha))
    - Lockscreen Widget Color
    - Sms/Call Notifications
    - Fuzzy Clock
