@@ -198,7 +198,7 @@
   <project path="packages/apps/CMTaskSwitcher" name="CyanMobile/android_packages_apps_CMTaskSwitcher_cyanmobile" />
   <project path="packages/apps/CMTimers" name="CyanMobile/android_packages_apps_CMTimers_cyanmobile" />
   <project path="packages/apps/CMTSCalibration" name="CyanMobile/android_packages_apps_CMTSCalibration_cyanmobile" />
-  <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
+  <project path="packages/apps/CMWallpapers" name="CyanMobile/android_packages_apps_CMWallpapers_cyanmobile" />
   <project path="packages/apps/CMWimaxSettings" name="CyanogenMod/android_packages_apps_CMWimaxSettings" />
   <project path="packages/apps/Contacts" name="CyanMobile/android_packages_apps_Contacts_cyanmobile" />
   <project path="packages/apps/DeskClock" name="CyanMobile/android_packages_apps_DeskClock_cyanmobile" />
