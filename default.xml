@@ -31,6 +31,7 @@
   <project path="device/htc/passion-common" name="CyanMobile/android_device_htc_passion-common_cyanmobile" />
   <project path="device/lge/p350" name="CyanMobile/android_device_lge_p350_cyanmobile" />
   <project path="device/lge/p970" name="CyanMobile/android_device_lge_p970_cyanmobile" />
+  <project path="device/lge/p920" name="CyanMobile/android_device_lge_p920_cyanmobile" />
   <project path="device/lge/p500" name="CyanMobile/android_device_lge_p500_cyanmobile" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/samsung/beni" name="CyanMobile/android_device_samsung_beni_cyanmobile" />
