@@ -57,6 +57,12 @@ Now Add These Lines to your System.prop { Build.prop }
 <li>ro.service.swiqi.supported=true</li>
 
 <li>debug.sf.hw=1</li>
+
+</ul>
+
+NOTE: only add this to build.prop if you want to see screen off animation, also need to enable screenoff animation in framework-res
+<ul>
+<li>debug.sf.electron_frames=12 //value can change to whatever your device can handle total max frame</li>
 </ul>
 ************************************************************
 
