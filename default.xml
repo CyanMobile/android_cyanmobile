@@ -24,12 +24,14 @@
   <project path="device/huawei/u8510" name="CyanMobile/android_device_huawei_u8510_cyanmobile" />
   <project path="device/htc/bravo" name="CyanMobile/android_device_htc_bravo_cyanmobile" />
   <project path="device/htc/buzz" name="CyanMobile/android_device_htc_buzz_cyanmobile" />
+  <project path="device/htc/dream_sapphire" name="CyanMobile/android_device_htc_dream_sapphire_cyanmobile" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" />
   <project path="device/htc/msm7x30-common" name="CyanogenMod/android_device_htc_msm7x30-common" />
   <project path="device/htc/passion" name="CyanMobile/android_device_htc_passion_cyanmobile" />
   <project path="device/htc/passion-common" name="CyanMobile/android_device_htc_passion-common_cyanmobile" />
   <project path="device/lge/p350" name="CyanMobile/android_device_lge_p350_cyanmobile" />
   <project path="device/lge/p970" name="CyanMobile/android_device_lge_p970_cyanmobile" />
+  <project path="device/lge/p920" name="CyanMobile/android_device_lge_p920_cyanmobile" />
   <project path="device/lge/p500" name="CyanMobile/android_device_lge_p500_cyanmobile" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/samsung/beni" name="CyanMobile/android_device_samsung_beni_cyanmobile" />
@@ -57,7 +59,7 @@
   <project path="external/bluetooth/bluez" name="CyanMobile/android_external_bluetooth_bluez_cyanmobile" />
   <project path="external/bluetooth/glib" name="CyanogenMod/android_external_bluetooth_glib" />
   <project path="external/bluetooth/hcidump" name="CyanogenMod/android_external_bluetooth_hcidump" />
-  <project path="external/bootmenu" name="CyanogenMod/android_external_bootmenu" />
+  <project path="external/bootmenu" name="CyanMobile/android_external_bootmenu_cyanmobile" />
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
   <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
@@ -198,7 +200,7 @@
   <project path="packages/apps/CMTaskSwitcher" name="CyanMobile/android_packages_apps_CMTaskSwitcher_cyanmobile" />
   <project path="packages/apps/CMTimers" name="CyanMobile/android_packages_apps_CMTimers_cyanmobile" />
   <project path="packages/apps/CMTSCalibration" name="CyanMobile/android_packages_apps_CMTSCalibration_cyanmobile" />
-  <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
+  <project path="packages/apps/CMWallpapers" name="CyanMobile/android_packages_apps_CMWallpapers_cyanmobile" />
   <project path="packages/apps/CMWimaxSettings" name="CyanogenMod/android_packages_apps_CMWimaxSettings" />
   <project path="packages/apps/Contacts" name="CyanMobile/android_packages_apps_Contacts_cyanmobile" />
   <project path="packages/apps/DeskClock" name="CyanMobile/android_packages_apps_DeskClock_cyanmobile" />
