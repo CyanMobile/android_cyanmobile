@@ -229,7 +229,7 @@
   <project path="packages/apps/SMSBarrage" name="CyanMobile/android_packages_apps_SMSBarrage_cyanmobile" />
   <project path="packages/apps/SMSMorse" name="CyanMobile/android_packages_apps_SMSMorse_cyanmobile" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
-  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
+  <project path="packages/apps/Superuser" name="CyanMobile/android_packages_apps_Superuser_cyanmobile" />
   <project path="packages/apps/Stk" name="CyanMobile/android_packages_apps_Stk_cyanmobile" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/TaskMan" name="CyanMobile/android_packages_apps_TaskMan_cyanmobile" />
@@ -259,7 +259,7 @@
   <project path="system/extras" name="CyanMobile/android_system_extras_cyanmobile" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanMobile/android_system_netd_cyanmobile" />
-  <project path="system/su" name="CyanogenMod/android_system_su" />
+  <project path="system/su" name="CyanMobile/android_system_su_cyanmobile" />
   <project path="system/vold" name="CyanMobile/android_system_vold_cyanmobile" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
