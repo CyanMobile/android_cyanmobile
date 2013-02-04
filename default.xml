@@ -43,6 +43,7 @@
   <project path="device/samsung/galaxy3" name="CyanMobile/android_device_samsung_galaxy3_cyanmobile" />
   <project path="device/samsung/gio" name="CyanMobile/android_device_samsung_gio_cyanmobile" />
   <project path="device/samsung/tass" name="CyanMobile/android_device_samsung_tass_cyanmobile" />
+  <project path="device/samsung/totoro" name="CyanMobile/android_device_samsung_totoro_cyanmobile" />
   <project path="device/semc/mogami-common" name="CyanogenMod/android_device_semc_mogami-common" />
   <project path="device/semc/msm7x27-common" name="CyanogenMod/android_device_semc_msm7x27-common" />
   <project path="device/semc/msm7x30-common" name="CyanogenMod/android_device_semc_msm7x30-common" />
