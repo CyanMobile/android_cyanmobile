@@ -216,6 +216,7 @@
   <project path="packages/apps/GpsTracker" name="CyanMobile/android_packages_apps_GpsTracker_cyanmobile" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/Launcher2" name="CyanogenMod/android_packages_apps_Launcher2" />
+  <project path="packages/apps/LegacyLauncher" name="CyanMobile/android_packages_apps_LegacyLauncher_cyanmobile" />
   <project path="packages/apps/Mms" name="CyanMobile/android_packages_apps_Mms_cyanmobile" />
   <project path="packages/apps/Music" name="CyanMobile/android_packages_apps_Music_cyanmobile" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
