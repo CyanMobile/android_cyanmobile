@@ -206,7 +206,7 @@
   <project path="packages/apps/Contacts" name="CyanMobile/android_packages_apps_Contacts_cyanmobile" />
   <project path="packages/apps/DeskClock" name="CyanMobile/android_packages_apps_DeskClock_cyanmobile" />
   <project path="packages/apps/DockAudio" name="CyanogenMod/android_packages_apps_DockAudio" />
-  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
+  <project path="packages/apps/DSPManager" name="CyanMobile/android_packages_apps_DSPManager_cyanmobile" />
   <project path="packages/apps/FileManager" name="CyanMobile/android_packages_apps_FileManager_cyanmobile" />
   <project path="packages/apps/FM" name="CyanMobile/android_packages_apps_FM_cyanmobile" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
@@ -245,10 +245,10 @@
   <project path="packages/providers/CalendarProvider" name="CyanMobile/android_packages_providers_CalendarProvider_cyanmobile" />
   <project path="packages/providers/ContactsProvider" name="CyanMobile/android_packages_providers_ContactsProvider_cyanmobile" />
   <project path="packages/providers/DownloadProvider" name="CyanMobile/android_packages_providers_DownloadProvider_cyanmobile" />
-  <project path="packages/providers/DrmProvider" name="CyanogenMod/android_packages_providers_DrmProvider" />
+  <project path="packages/providers/DrmProvider" name="CyanMobile/android_packages_providers_DrmProvider_cyanmobile" />
   <project path="packages/providers/GoogleContactsProvider" name="CyanogenMod/android_packages_providers_GoogleContactsProvider" />
   <project path="packages/providers/MediaProvider" name="CyanMobile/android_packages_providers_MediaProvider_cyanmobile" />
-  <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" />
+  <project path="packages/providers/TelephonyProvider" name="CyanMobile/android_packages_providers_TelephonyProvider_cyanmobile" />
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
   <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" />
