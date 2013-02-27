@@ -34,6 +34,7 @@
   <project path="device/lge/p920" name="CyanMobile/android_device_lge_p920_cyanmobile" />
   <project path="device/lge/p500" name="CyanMobile/android_device_lge_p500_cyanmobile" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
+  <project path="device/samsung/aries-common" name="CyanMobile/android_device_samsung_aries-common_cyanmobile" />
   <project path="device/samsung/beni" name="CyanMobile/android_device_samsung_beni_cyanmobile" />
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" />
   <project path="device/samsung/callisto" name="CyanMobile/android_device_samsung_callisto_cyanmobile" />
@@ -41,6 +42,7 @@
   <project path="device/samsung/crespo" name="CyanMobile/android_device_samsung_crespo_cyanmobile" />
   <project path="device/samsung/galaxy5" name="CyanMobile/android_device_samsung_galaxy5_cyanmobile" />
   <project path="device/samsung/galaxy3" name="CyanMobile/android_device_samsung_galaxy3_cyanmobile" />
+  <project path="device/samsung/galaxysbmtd" name="CyanMobile/android_device_samsung_galaxysbmtd_cyanmobile" />
   <project path="device/samsung/gio" name="CyanMobile/android_device_samsung_gio_cyanmobile" />
   <project path="device/samsung/tass" name="CyanMobile/android_device_samsung_tass_cyanmobile" />
   <project path="device/samsung/totoro" name="CyanMobile/android_device_samsung_totoro_cyanmobile" />
