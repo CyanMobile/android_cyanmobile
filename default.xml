@@ -69,7 +69,7 @@
   <project path="external/chromium" name="CyanogenMod/android_external_chromium" />
   <project path="external/clearsilver" name="CyanogenMod/android_external_clearsilver" />
   <project path="external/compcache" name="CyanogenMod/android_external_compcache" revision="master" />
-  <project path="external/dbus" name="CyanogenMod/android_external_dbus" />
+  <project path="external/dbus" name="CyanMobile/android_external_dbus_cyanmobile" />
   <project path="external/dhcpcd" name="CyanogenMod/android_external_dhcpcd" />
   <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" />
   <project path="external/dropbear" name="CyanogenMod/android_external_dropbear" revision="master" />
@@ -84,7 +84,7 @@
   <project path="external/fdlibm" name="CyanogenMod/android_external_fdlibm" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" />
   <project path="external/freetype" name="CyanMobile/android_external_freetype_cyanmobile" />
-  <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" />
+  <project path="external/fsck_msdos" name="CyanMobile/android_external_fsck_msdos_cyanmobile" />
   <project path="external/genext2fs" name="CyanogenMod/android_external_genext2fs" />
   <project path="external/giflib" name="CyanogenMod/android_external_giflib" />
   <project path="external/grub" name="CyanogenMod/android_external_grub" />
@@ -101,15 +101,15 @@
   <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
   <project path="external/junit" name="CyanogenMod/android_external_junit" />
   <project path="external/kernel-headers" name="CyanogenMod/android_external_kernel-headers" />
-  <project path="external/libexif" name="CyanogenMod/android_external_libexif" />
+  <project path="external/libexif" name="CyanMobile/android_external_libexif_cyanmobile" />
   <project path="external/libffi" name="CyanogenMod/android_external_libffi" />
   <project path="external/libgsm" name="CyanogenMod/android_external_libgsm" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" />
   <project path="external/libpcap" name="CyanogenMod/android_external_libpcap" />
   <project path="external/libpng" name="CyanogenMod/android_external_libpng" />
-  <project path="external/libvpx" name="CyanogenMod/android_external_libvpx" />
-  <project path="external/libxml2" name="CyanogenMod/android_external_libxml2" />
+  <project path="external/libvpx" name="CyanMobile/android_external_libvpx_cyanmobile" />
+  <project path="external/libxml2" name="CyanMobile/android_external_libxml2_cyanmobile" />
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
   <project path="external/lsof" name="CyanMobile/android_external_lsof_cyanmobile" />
   <project path="external/mtpd" name="CyanogenMod/android_external_mtpd" />
